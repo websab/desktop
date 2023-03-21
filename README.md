@@ -1,2 +1,1 @@
-Welcome to my desktop!!
-Here are my projects.
+Welcome to my desktop!
